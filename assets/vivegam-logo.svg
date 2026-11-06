@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<defs><path id="topArc" d="M 82,256 A 174,174 0 0,1 430,256"/><path id="bottomArc" d="M 80,263 A 176,176 0 0,0 432,263"/></defs>
+<circle cx="256" cy="256" r="245" fill="#fff5d6" stroke="#a91f35" stroke-width="15"/>
+<circle cx="256" cy="256" r="226" fill="none" stroke="#6d1b2b" stroke-width="5"/>
+<circle cx="256" cy="256" r="133" fill="none" stroke="#d6a43c" stroke-width="8"/>
+<text fill="#a91f35" font-family="Georgia,serif" font-size="58" font-weight="bold" letter-spacing="4"><textPath href="#topArc" startOffset="50%" text-anchor="middle">VIVEGAM</textPath></text>
+<text fill="#a91f35" font-family="Georgia,serif" font-size="54" font-weight="bold" letter-spacing="2"><textPath href="#bottomArc" startOffset="50%" text-anchor="middle">ACADEMY</textPath></text>
+<g fill="#167c7b"><circle cx="91" cy="255" r="31" fill="none" stroke="#167c7b" stroke-width="7"/><path d="M60 255h62M91 224v62M69 234q22 22 44 0M69 276q22-22 44 0" fill="none" stroke="#167c7b" stroke-width="4"/><circle cx="421" cy="255" r="31" fill="none" stroke="#167c7b" stroke-width="7"/><path d="M390 255h62M421 224v62M399 234q22 22 44 0M399 276q22-22 44 0" fill="none" stroke="#167c7b" stroke-width="4"/></g>
+<g fill="#a91f35"><path d="m120 342 8 18 20 2-15 13 5 20-18-10-17 10 4-20-15-13 20-2z"/><path d="m392 342 8 18 20 2-15 13 5 20-18-10-17 10 4-20-15-13 20-2z"/></g>
+<text x="256" y="245" text-anchor="middle" fill="#15505a" font-family="cursive" font-size="92" font-style="italic">VA</text>
+<g fill="#e88a18"><circle cx="256" cy="286" r="12"/><path d="M241 302q15-12 30 0l12 28q-27 20-54 0z"/><path d="M244 328q-42 10-54 29 34 16 66 1 32 15 66-1-12-19-54-29z"/></g>
+<g fill="#167c7b"><path d="M151 372q57 0 105 53-58-31-105-53z"/><path d="M361 372q-57 0-105 53 58-31 105-53z"/></g>
+<path d="M186 402q39 3 70 23 31-20 70-23" fill="none" stroke="#15505a" stroke-width="7" stroke-linecap="round"/>
+</svg>
